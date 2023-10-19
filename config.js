@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2348146767526', 'Jerry🌼', true],
+  ['2348146767526', 'Jerry🍄', true],
   ['2348152661433', 'US🍑', true], 
   [''] 
 ] //Number of owners
@@ -52,8 +52,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = '2ND CHANCE 🥝'
 global.premium = 'true'
-global.packname = 'I hope..🥲' 
-global.author = '@Biggs🏀🌼' 
+global.packname = '𝙸 𝚏𝚎𝚎𝚕 𝚝𝚑𝚎 𝚗𝚎𝚎𝚍..𝚝𝚑𝚎 𝚗𝚎𝚎𝚍 𝚏𝚘𝚛 𝚜𝚙𝚎𝚎𝚍' 
+global.author = 'Biggs🪵🏀' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
